@@ -3,7 +3,8 @@ package com.lansanalatty.wot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.lansanalatty.wot.jena.JenaRDF;
+
+
 
 @SpringBootApplication
 public class WebOfThingApplication {
